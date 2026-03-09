@@ -1,9 +1,80 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="Page-1" id="SQvjWYF79mzjnZDzB3Cw">
-    <mxGraphModel dx="872" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="872" dy="1531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qZzMDmeki4LsLkYUxHIT-6" edge="1" parent="1" source="qZzMDmeki4LsLkYUxHIT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qZzMDmeki4LsLkYUxHIT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qZzMDmeki4LsLkYUxHIT-18" edge="1" parent="1" source="qZzMDmeki4LsLkYUxHIT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=oval;endFill=1;startArrow=oval;startFill=1;" target="qZzMDmeki4LsLkYUxHIT-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qZzMDmeki4LsLkYUxHIT-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fetch data from different sources" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qZzMDmeki4LsLkYUxHIT-8" edge="1" parent="1" source="qZzMDmeki4LsLkYUxHIT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="qZzMDmeki4LsLkYUxHIT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qZzMDmeki4LsLkYUxHIT-11" connectable="0" parent="qZzMDmeki4LsLkYUxHIT-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="send data with&amp;nbsp;&lt;div&gt;interpretable points&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1852" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qZzMDmeki4LsLkYUxHIT-13" edge="1" parent="1" source="qZzMDmeki4LsLkYUxHIT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qZzMDmeki4LsLkYUxHIT-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qZzMDmeki4LsLkYUxHIT-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Create a data table with data points that are interpretable to create an AI Narration" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qZzMDmeki4LsLkYUxHIT-5" edge="1" parent="1" source="qZzMDmeki4LsLkYUxHIT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qZzMDmeki4LsLkYUxHIT-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qZzMDmeki4LsLkYUxHIT-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+          <mxGeometry height="60" width="30" x="70" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qZzMDmeki4LsLkYUxHIT-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Request with address" vertex="1">
+          <mxGeometry height="30" width="60" x="140" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qZzMDmeki4LsLkYUxHIT-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AI creating Narrative based on Data points" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="-40" as="geometry" />
+        </mxCell>
+        <mxCell id="qZzMDmeki4LsLkYUxHIT-9" edge="1" parent="1" source="qZzMDmeki4LsLkYUxHIT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.983;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" target="qZzMDmeki4LsLkYUxHIT-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="138" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qZzMDmeki4LsLkYUxHIT-10" connectable="0" parent="qZzMDmeki4LsLkYUxHIT-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Narrative" vertex="1">
+          <mxGeometry relative="1" x="-0.2002" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qZzMDmeki4LsLkYUxHIT-16" edge="1" parent="1" source="qZzMDmeki4LsLkYUxHIT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qZzMDmeki4LsLkYUxHIT-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qZzMDmeki4LsLkYUxHIT-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Create a Table with data ready to create HTML" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="qZzMDmeki4LsLkYUxHIT-21" edge="1" parent="1" source="qZzMDmeki4LsLkYUxHIT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qZzMDmeki4LsLkYUxHIT-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qZzMDmeki4LsLkYUxHIT-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Create HTML&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="qZzMDmeki4LsLkYUxHIT-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="CONFIGURATION&lt;div&gt;- CDM&lt;br&gt;&lt;div&gt;- Data Sources URLs&lt;/div&gt;&lt;div&gt;* corresponding json CDM mapping&lt;/div&gt;&lt;/div&gt;&lt;div&gt;- HTML Template&lt;/div&gt;&lt;div&gt;- PDF generation config url&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="120" x="190" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="qZzMDmeki4LsLkYUxHIT-19" edge="1" parent="1" source="qZzMDmeki4LsLkYUxHIT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=oval;endFill=1;startArrow=oval;startFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.008;entryY=0.408;entryDx=0;entryDy=0;entryPerimeter=0;" target="qZzMDmeki4LsLkYUxHIT-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="200" as="sourcePoint" />
+            <mxPoint x="290" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qZzMDmeki4LsLkYUxHIT-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Save in Blob storage" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="430" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
