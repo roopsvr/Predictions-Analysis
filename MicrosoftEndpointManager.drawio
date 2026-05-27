@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.4.0" pages="2">
+  <diagram name="Page-1" id="WY1asF6nadz1tl20WdA1">
+    <mxGraphModel dx="1220" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fDdaMqtN0xpuGiHXH-YV-1" parent="1" style="text;whiteSpace=wrap;html=1;align=center;fontSize=13;strokeColor=default;perimeterSpacing=0;rounded=1;strokeWidth=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;u&gt;Microsoft Endpoint Manager&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="430" width="500" x="60" y="126.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fDdaMqtN0xpuGiHXH-YV-11" parent="1" style="html=1;verticalLabelPosition=middle;align=left;labelBackgroundColor=#ffffff;verticalAlign=middle;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;labelPosition=right;" value="&lt;b&gt;App Mgmt:&amp;nbsp;&lt;/b&gt;&lt;div&gt;&amp;nbsp;- Deploy + manage Apps&lt;/div&gt;" vertex="1">
+          <mxGeometry height="37" width="40" x="80" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="fDdaMqtN0xpuGiHXH-YV-13" parent="1" style="html=1;verticalLabelPosition=middle;align=left;labelBackgroundColor=#ffffff;verticalAlign=middle;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;labelPosition=right;" value="&lt;b&gt;Device Mgmt:&amp;nbsp;&lt;/b&gt;&lt;div&gt;&amp;nbsp;- Deploy Apps&lt;/div&gt;&lt;div&gt;&amp;nbsp;- Manage Device Config&lt;/div&gt;&lt;div&gt;&amp;nbsp;- Set Compliance policies&lt;/div&gt;" vertex="1">
+          <mxGeometry height="37" width="40" x="80" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="fDdaMqtN0xpuGiHXH-YV-14" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="130" width="180" x="450" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="fDdaMqtN0xpuGiHXH-YV-7" parent="fDdaMqtN0xpuGiHXH-YV-14" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="130" width="180" as="geometry" />
+        </mxCell>
+        <mxCell id="fDdaMqtN0xpuGiHXH-YV-6" parent="fDdaMqtN0xpuGiHXH-YV-14" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.desktop;" value="" vertex="1">
+          <mxGeometry height="38.66" width="50" x="40" y="46.920000000000016" as="geometry" />
+        </mxCell>
+        <mxCell id="fDdaMqtN0xpuGiHXH-YV-8" connectable="0" parent="fDdaMqtN0xpuGiHXH-YV-14" style="group" value="" vertex="1">
+          <mxGeometry height="92.5" width="50.32000000000005" x="120" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fDdaMqtN0xpuGiHXH-YV-4" parent="fDdaMqtN0xpuGiHXH-YV-8" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.on_premises;" value="" vertex="1">
+          <mxGeometry height="55" width="34" as="geometry" />
+        </mxCell>
+        <mxCell id="fDdaMqtN0xpuGiHXH-YV-5" parent="fDdaMqtN0xpuGiHXH-YV-8" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;" value="Config Manager" vertex="1">
+          <mxGeometry height="60" width="50.32" y="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fDdaMqtN0xpuGiHXH-YV-15" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="150" width="210" x="420" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="fDdaMqtN0xpuGiHXH-YV-2" parent="fDdaMqtN0xpuGiHXH-YV-15" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;verticalAlign=top;" value="MS Intune" vertex="1">
+          <mxGeometry height="150" width="210" as="geometry" />
+        </mxCell>
+        <mxCell id="fDdaMqtN0xpuGiHXH-YV-10" parent="fDdaMqtN0xpuGiHXH-YV-15" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mobile_client;" value="Mobile devices" vertex="1">
+          <mxGeometry height="60" width="60" x="110" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="fDdaMqtN0xpuGiHXH-YV-16" parent="1" style="html=1;verticalLabelPosition=middle;align=left;labelBackgroundColor=#ffffff;verticalAlign=middle;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;labelPosition=right;" value="&lt;b&gt;Zero Touch provisioning&lt;/b&gt;&lt;div&gt;(with windows Autopilot)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="37" width="40" x="80" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="fDdaMqtN0xpuGiHXH-YV-17" parent="1" style="html=1;verticalLabelPosition=middle;align=left;labelBackgroundColor=#ffffff;verticalAlign=middle;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;labelPosition=right;" value="&lt;b&gt;Security:&amp;nbsp;&lt;/b&gt;&lt;div&gt;&amp;nbsp;- Apply Security Policies&lt;br&gt;&lt;/div&gt;&lt;div&gt;( protect Data + integrate with MS tools like ZERO TRUST )&lt;/div&gt;" vertex="1">
+          <mxGeometry height="37" width="40" x="80" y="323" as="geometry" />
+        </mxCell>
+        <mxCell id="fDdaMqtN0xpuGiHXH-YV-18" parent="1" style="html=1;verticalLabelPosition=middle;align=left;labelBackgroundColor=#ffffff;verticalAlign=middle;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;labelPosition=right;" value="&lt;b&gt;Endpoint analytics&lt;/b&gt;" vertex="1">
+          <mxGeometry height="37" width="40" x="80" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="fDdaMqtN0xpuGiHXH-YV-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="MS DEFENDER&amp;nbsp;&lt;div&gt;for Cloud&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="650" as="geometry" />
+        </mxCell>
+        <UserObject label="https://learn.microsoft.com/en-us/defender-cloud-apps/what-is-defender-for-cloud-apps" link="https://learn.microsoft.com/en-us/defender-cloud-apps/what-is-defender-for-cloud-apps" id="fDdaMqtN0xpuGiHXH-YV-20">
+          <mxCell parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="40" width="130" x="240" y="660" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="fDdaMqtN0xpuGiHXH-YV-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="MS DEFENDER Threat Intelligence" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="720" as="geometry" />
+        </mxCell>
+        <UserObject label="https://www.microsoft.com/en-au/security/business/siem-and-xdr/microsoft-defender-threat-intelligence" link="https://www.microsoft.com/en-au/security/business/siem-and-xdr/microsoft-defender-threat-intelligence" id="fDdaMqtN0xpuGiHXH-YV-22">
+          <mxCell parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="50" width="140" x="230" y="725" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="URItUFE94FuINVlaCFD7" name="Page-2">
+    <mxGraphModel dx="3346" dy="1271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="W1DUo7BzbUsykgBoWVUd-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="150" width="250" x="60" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="W1DUo7BzbUsykgBoWVUd-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="150" width="250" x="440" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="W1DUo7BzbUsykgBoWVUd-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="150" width="130" x="310" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="W1DUo7BzbUsykgBoWVUd-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="320" x="60" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="W1DUo7BzbUsykgBoWVUd-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="310" x="380" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="W1DUo7BzbUsykgBoWVUd-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="290" width="320" x="60" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="W1DUo7BzbUsykgBoWVUd-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="290" width="310" x="380" y="350" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
